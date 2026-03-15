@@ -1,14 +1,14 @@
-{
-    "Ghostowwy": {
-        "username": "Ghostowwy",
-        "password": "MangoMusztarda67",
-        "hwid": "56cfde21-1042-4f67-a4ac-a0fefc9a102b",
-        "expired_date": "never"
-    },
-    "jefing": {
-        "username": "jefing",
-        "password": "yevingskid123!",
-        "hwid": "2ADEF195-3A11-48D6-EB42-C366DCA1111A",
-        "expired_date": "2026-04-15"
-    }
-}
+[
+  {
+    "username": "Ghostowwy",
+    "password": "MangoMusztarda67",
+    "hwid": "7DA1307D-03C6-11EC-810C-7C8AE198BC9D",
+    "expired_date": "never"
+  },
+  {
+    "username": "jefing",
+    "password": "yevingskid123!",
+    "hwid": "2ADEF195-3A11-48D6-EB42-C366DCA1111A",
+    "expired_date": "2026-04-15"
+  }
+]
